@@ -1,0 +1,9 @@
+* cl-custom-hash-table
+
+Custom hash tables for Common Lisp
+
+|---------+----------------------------------------------------------|
+| source  | git:https://github.com/metawilm/cl-custom-hash-table.git |
+| commit  | 7bd02a5                                                  |
+| systems | cl-custom-hash-table                                     |
+|---------+----------------------------------------------------------|
