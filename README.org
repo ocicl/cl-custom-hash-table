@@ -4,6 +4,6 @@ Custom hash tables for Common Lisp
 
 |---------+----------------------------------------------------------|
 | source  | git:https://github.com/metawilm/cl-custom-hash-table.git |
-| commit  | ab07fd9                                                  |
+| commit  | c454a51                                                  |
 | systems | cl-custom-hash-table                                     |
 |---------+----------------------------------------------------------|
